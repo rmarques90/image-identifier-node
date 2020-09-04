@@ -1,0 +1,4 @@
+resources/myCredentials.json
+node_modules/
+.idea/
+resources/myCredential.json
